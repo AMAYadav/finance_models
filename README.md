@@ -1,19 +1,24 @@
-# finance_models
+# Financial Models
 
-Bond Valuation
+* Bond Valuation
 
-Option Valuation
+* Option Valuation
 
-Yield Curve
+* Yield Curve
 
-Term Structure Models
+* SWAPS Valuations
 
-Value at Risk {DELTA NORMAL,HISTORICAL SIMULATION,MONTE CARLO SIMULATION,       LOCAL REVALUATION,FULL REVALUATION}
+* Term Structure Models
 
-FRTB:
-  SBM - EQUITY :
-                DELTA
-                CURVATURE
-                VEGA
-  IMA - REFT
-  IMA - IMCC
+ ##   Value at Risk
+ * DELTA NORMAL
+ * HISTORICAL SIMULATION
+ * MONTE CARLO SIMULATION
+ * LOCAL REVALUATION
+ * FULL REVALUATION
+ * Volatility Model
+    
+
+ ##    FRTB:
+ *      SBM - EQUITY:DELTA,CURVATURE,VEGA
+ *     IMA - IMCC,REFT 
